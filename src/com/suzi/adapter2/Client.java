@@ -1,5 +1,8 @@
 package com.suzi.adapter2;
 
+/**
+ * 对象适配器
+ */
 public class Client {
 
     public static void main(String[] args) {
